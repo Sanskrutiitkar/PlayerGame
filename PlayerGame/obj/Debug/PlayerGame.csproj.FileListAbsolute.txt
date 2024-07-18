@@ -1,0 +1,7 @@
+C:\Users\sanskruti.itkar\source\repos\PlayerGame\bin\Debug\PlayerGame.exe.config
+C:\Users\sanskruti.itkar\source\repos\PlayerGame\bin\Debug\PlayerGame.exe
+C:\Users\sanskruti.itkar\source\repos\PlayerGame\bin\Debug\PlayerGame.pdb
+C:\Users\sanskruti.itkar\source\repos\PlayerGame\obj\Debug\PlayerGame.csproj.AssemblyReference.cache
+C:\Users\sanskruti.itkar\source\repos\PlayerGame\obj\Debug\PlayerGame.csproj.CoreCompileInputs.cache
+C:\Users\sanskruti.itkar\source\repos\PlayerGame\obj\Debug\PlayerGame.exe
+C:\Users\sanskruti.itkar\source\repos\PlayerGame\obj\Debug\PlayerGame.pdb
